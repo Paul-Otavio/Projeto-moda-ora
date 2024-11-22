@@ -1,4 +1,4 @@
-#Moda Ora: Criando um Site com HTML, CSS e JavaScript
+# Moda Ora: Criando um Site com HTML, CSS e JavaScript
 Criado com o objetivo de colocar em prática meu aprendizado durante o curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos na plataforma Udemy.
 
 ## Linguagens Utilizadas:
